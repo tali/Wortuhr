@@ -12,7 +12,9 @@ Hier findet man alle nötigen Informationen zur Worduhr.
     * 470 Ohm Widerstand
     * Optional: LDR, 10 KOhm Widerstand
 * Software
-    * PlatformIO Core oder IDE
+    * PlatformIO [Core](https://docs.platformio.org/en/latest/core/installation.html) oder [IDE](https://platformio.org/install/ide?install=vscode)
+    * [Node.js](https://www.nodejs.org/)
+    * [Git](https://git-scm.com)
 
 ## Anschluss WS2812 oder SK6812 Stripe
 * RX = DI / Data Bus
